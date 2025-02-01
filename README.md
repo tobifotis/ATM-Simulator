@@ -19,7 +19,7 @@ To run this program, you will need:
 - A C++ compiler (`g++` or similar)
 - An IDE or text editor (VS Code, Visual Studio, etc.)
 
-### Installing
+### Installation
 
 1. **Clone the repository**:
    '''bash
